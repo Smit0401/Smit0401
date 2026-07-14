@@ -1,6 +1,6 @@
 # Hi, I'm Smit Shah 👋
 
-🎓 Third Year Student at Nirma University  
+🎓 Final Year Student at Nirma University  
 💻 AI/ML Enthusiast | DSA Learner  
 🚀 Aspiring Software Engineer | Placement 2026  
 
