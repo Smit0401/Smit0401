@@ -1,41 +1,81 @@
 # Hi, I'm Smit Shah 👋
 
-🎓 Final Year Student at Nirma University  
-💻 AI/ML Enthusiast | DSA Learner  
-🚀 Aspiring Software Engineer | Placement 2026  
+🎓 Computer Science Undergraduate at Nirma University
+
+💻 Software Engineer | Backend Engineering • System Design • AI/ML
+
+🚀 Passionate about building scalable software systems and AI-powered applications.
 
 ---
 
-##  About Me
-I am an AI/ML enthusiast with strong foundations in Data Structures & Algorithms, passionate about building intelligent and scalable software systems.  
-I enjoy working on real-world problems involving computer vision, deep learning, and system-level engineering.
+## 👨‍💻 About Me
+
+I'm a Computer Science undergraduate passionate about software engineering, with a strong focus on backend development, distributed systems, and scalable application design. I enjoy solving complex engineering problems and building production-ready software that integrates modern AI technologies.
+
+My interests include:
+
+- Backend Engineering
+- System Design
+- Distributed Systems
+- Real-Time Applications
+- AI/ML & Generative AI
+- Data Structures & Algorithms
 
 ---
 
-##  Tech Stack
-**Languages:** C++, Python, JavaScript  
-**AI/ML:** PyTorch, Scikit-learn, Deep Learning, Computer Vision, NLP  
-**Frontend:** React  
-**Backend:** Node.js, Express  
-**Database:** MongoDB  
-**Core CS:** DSA, OS, DBMS, Computer Networks  
+## 🛠 Tech Stack
+
+### Languages
+C++ • Python • JavaScript • SQL
+
+### Backend
+Node.js • Express.js • REST APIs • JWT • Socket.io
+
+### Frontend
+React.js
+
+### Databases
+MongoDB • MySQL • Redis
+
+### AI / ML
+LangChain • Gemini AI • RAG • Prompt Engineering • TensorFlow • Scikit-learn
+
+### Cloud & DevOps
+AWS • Docker • Nginx • PM2 • Git • Postman
 
 ---
 
-##  Current Focus
-- Mastering DSA for product-based company interviews  
-- Building AI-driven real-world systems  
-- Learning scalable backend & system design  
+## 🚀 Featured Projects
+
+### 🎯 CareerPilot AI
+AI-powered job preparation platform with resume analysis, ATS optimization, interview preparation, Redis caching, and Gemini AI integration.
+
+### 🎨 SyncBoard
+Real-time collaborative whiteboard supporting WebSocket synchronization, JWT authentication, room management, and AWS deployment.
+
+### 🎟️ Vivatix
+Full-stack event ticketing platform enabling organizations to host and manage college events for 1000+ users.
 
 ---
 
-##  Featured Projects
-- **Sentinel AI Platform** – AI-powered distributed system monitoring  
-- **Cloud-Driven Visual Speech Recognition**  
-- **Music Recommendation System**  
+## 📚 Publications
 
+📄 IEEE Conference Publication
+Explainable Machine Learning for Gait-based Authentication using SHAP & LIME.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced System Design
+- Distributed Systems
+- Cloud Architecture
+- Open Source Software
+- Large Language Models
 
 ---
 
 ## 📫 Connect
-LinkedIn: www.linkedin.com/in/smit-shah-51a9b8284
+
+- LinkedIn: https://linkedin.com/in/smit-shah-51a9b8284
+- Email: smit040106@gmail.com
